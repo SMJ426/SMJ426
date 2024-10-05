@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.notion.so/0aa1417c4465448280c1276d5729b35a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMJ426&show_icons=true&theme=github_dark)
